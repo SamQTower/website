@@ -3,16 +3,29 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/Tower_headshot.jpg
 ---
 
 :::{#me}
 
 ## Goals
+- I'm learning Spanish :)
+- I'm earning my doctorate
+- I am aiming to do a thesis in investigating invasive pests and pathogens
 
 ## Education
+- Lin-Wood Public School K-12, class of 2019
+- Smith College, class of 2023
+- Yale School of the Environment, class of 2025
+
+Now I'm at UNH working on my Ph.D. class of 2030!
 
 ## Experience
+- Studied Whales during Study Abroad in Iceland
+- Worked at Hubbard Brook Research Foundation as research assistant
+- Worked on Conservation Genetics at Kew Gardens in London
+- Studied Hemlock Woolly Adelgid (HWA) for my Master's Thesis at Yale
+- Now studying Beech Leaf Disease at UNH
 
 :::
 
