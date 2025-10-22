@@ -1,23 +1,51 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "I’m learning Spanish :)\nI’m earning my doctorate\nI am aiming to do a thesis in investigating invasive pests and pathogens\n\n\n\n\n\nLin-Wood Public School K-12, class of 2019\nSmith College, class of 2023\nYale School of the Environment, class of 2025\n\nNow I’m at UNH working on my Ph.D. class of 2030!\n\n\n\n\nStudied Whales during Study Abroad in Iceland\nWorked at Hubbard Brook Research Foundation as research assistant\nWorked on Conservation Genetics at Kew Gardens in London\nStudied Hemlock Woolly Adelgid (HWA) for my Master’s Thesis at Yale\nNow studying Beech Leaf Disease at UNH\nThanks for checking out my web site!"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m learning Spanish :)\nI’m earning my doctorate\nI am aiming to do a thesis in investigating invasive pests and pathogens"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "Lin-Wood Public School K-12, class of 2019\nSmith College, class of 2023\nYale School of the Environment, class of 2025\n\nNow I’m at UNH working on my Ph.D. class of 2030!"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About Me",
+    "section": "",
+    "text": "Studied Whales during Study Abroad in Iceland\nWorked at Hubbard Brook Research Foundation as research assistant\nWorked on Conservation Genetics at Kew Gardens in London\nStudied Hemlock Woolly Adelgid (HWA) for my Master’s Thesis at Yale\nNow studying Beech Leaf Disease at UNH"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "The Whales of Iceland: Monitoring populations in regard to whaling\nI used multiple publicly available datasets to create a project investigating the effects of whaling on whale populations, based on the whale species that did and didn’t get protected status from the Icelandic government. I found that the species for which whaling is allowed are experiencing rapid declines. Possibly more alarming, I found that every time the Icelandic government granted permission for a species to be hunted, the government stopped all population tracking of that species, stopped funding population research of that species, and overall tried to mask the effects these policies were having on the ecosystem. Using datasets collected from nearby countries and marine conservation non-profit organizations, I was able to map the decline of these species."
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "The Whales of Iceland: Monitoring populations in regard to whaling\nI used multiple publicly available datasets to create a project investigating the effects of whaling on whale populations, based on the whale species that did and didn’t get protected status from the Icelandic government. I found that the species for which whaling is allowed are experiencing rapid declines. Possibly more alarming, I found that every time the Icelandic government granted permission for a species to be hunted, the government stopped all population tracking of that species, stopped funding population research of that species, and overall tried to mask the effects these policies were having on the ecosystem. Using datasets collected from nearby countries and marine conservation non-profit organizations, I was able to map the decline of these species."
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "Projects",
+    "section": "Project 2",
+    "text": "Project 2\nInvestigating Hemlock Woolly Adelgid: Determining relationships between site characteristics, tree morphology, and overall HWA infestation.\nI studied a Hemlock stand infested with Hemlock Woolly Adelgid (HWA) at Yale Myers forest. The stand was along a steep ridgeline, the bottom of which bordered a large pond, the top of which was arid and exposed to the elemnets. I investigated variables of tree growth, soil characteristics, and landscape attributes in relation to HWA infestation. For soil characteristics, I found that Calcium, Aluminium, and Iron all had significant relationships with HWA. Additionally, increased soil moisture and the lower elevation significantly decreased the levels of HWA. Lastly, at the tree level I found that the level in the canopy also significantly related to the amount of HWA infestation. In conclusion, there are factors in the soil, tree, and landscape that can significantly alter HWA infestation."
   }
 ]
